@@ -1,2 +1,3 @@
-# numerical-methods
+# Numerical Methods
+
 Codebase, done on MATLAB
